@@ -1,0 +1,8 @@
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Agenda_Consultorio\Agenda_Consultorio\bin\Debug\Agenda_Consultorio.exe.config
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Agenda_Consultorio\Agenda_Consultorio\bin\Debug\Agenda_Consultorio.exe
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Agenda_Consultorio\Agenda_Consultorio\bin\Debug\Agenda_Consultorio.pdb
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Agenda_Consultorio\Agenda_Consultorio\obj\Debug\Agenda_Consultorio.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Agenda_Consultorio\Agenda_Consultorio\obj\Debug\Agenda_Consultorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Agenda_Consultorio\Agenda_Consultorio\obj\Debug\Agenda_Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Agenda_Consultorio\Agenda_Consultorio\obj\Debug\Agenda_Consultorio.exe
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Agenda_Consultorio\Agenda_Consultorio\obj\Debug\Agenda_Consultorio.pdb
